@@ -1,0 +1,7 @@
+body{
+	background: url(../img/main-bg.jpg) center no-repeat;
+}
+
+.main__user-age{
+	margin-bottom: 10px;
+}
